@@ -51,7 +51,8 @@ function addQuestion(questionItem, index){
 function submitForm(){
     let answers = [];
     let score = 0;
-    const formData = new FormData(document.getElementById('formSection'));
+    const formSection = document.getElementById('formSection');
+    const formData = new FormData(formSection);
     for (const [key, value] of formData.entries()) {
         answers.push({
             id:key,
@@ -61,5 +62,7 @@ function submitForm(){
             score += 1;
         }
     }
+    formSection.className = "hidden"
     scoreSection.textContent = `You have scored ${score} marks out of 10`
+    scoreSection.className = "m-[20px] text-3xl font-bold"
 }
