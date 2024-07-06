@@ -1,0 +1,130 @@
+{
+    "questionList": [
+        {
+            "id":"id1",
+            "question": "What is the capital of India?",
+            "options": ["New Delhi", "Mumbai"],
+            "answer": "New Delhi"
+        },
+        {
+            "id":"id2",
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Jupiter", "Saturn"],
+            "answer": "Jupiter"
+        },
+        {
+            "id":"id3",
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": ["Harper Lee", "Mark Twain"],
+            "answer": "Harper Lee"
+        },
+        {
+            "id":"id4",
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "O2"],
+            "answer": "H2O"
+        },
+        {
+            "id":"id5",
+            "question": "What is the smallest prime number?",
+            "options": ["2", "1"],
+            "answer": "2"
+        },
+        {
+            "id":"id6",
+            "question": "What year did World War II end?",
+            "options": ["1945", "1939"],
+            "answer": "1945"
+        },
+        {
+            "id":"id7",
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Leonardo da Vinci", "Vincent van Gogh"],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "id":"id8",
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Diamond", "Gold"],
+            "answer": "Diamond"
+        },
+        {
+            "id":"id9",
+            "question": "What is the main ingredient in guacamole?",
+            "options": ["Avocado", "Tomato"],
+            "answer": "Avocado"
+        },
+        {
+            "id":"id10",
+            "question": "What is the currency of Japan?",
+            "options": ["Yen", "Won"],
+            "answer": "Yen"
+        },
+        {
+            "id":"id11",
+            "question": "Who is known as the 'Father of Computers'?",
+            "options": ["Charles Babbage", "Alan Turing"],
+            "answer": "Charles Babbage"
+        },
+        {
+            "id":"id12",
+            "question": "What is the tallest mountain in the world?",
+            "options": ["Mount Everest", "K2"],
+            "answer": "Mount Everest"
+        },
+        {
+            "id":"id13",
+            "question": "What is the most spoken language in the world?",
+            "options": ["Mandarin Chinese", "English"],
+            "answer": "Mandarin Chinese"
+        },
+        {
+            "id":"id14",
+            "question": "Who discovered penicillin?",
+            "options": ["Alexander Fleming", "Louis Pasteur"],
+            "answer": "Alexander Fleming"
+        },
+        {
+            "id":"id15",
+            "question": "What is the boiling point of water?",
+            "options": ["100°C", "90°C"],
+            "answer": "100°C"
+        },
+        {
+            "id":"id16",
+            "question": "Who was the first President of the United States?",
+            "options": ["George Washington", "Abraham Lincoln"],
+            "answer": "George Washington"
+        },
+        {
+            "id":"id17",
+            "question": "What is the largest ocean on Earth?",
+            "options": ["Pacific Ocean", "Atlantic Ocean"],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "id":"id18",
+            "question": "Who developed the theory of relativity?",
+            "options": ["Albert Einstein", "Isaac Newton"],
+            "answer": "Albert Einstein"
+        },
+        {
+            "id":"id19",
+            "question": "What is the longest river in the world?",
+            "options": ["Nile River", "Amazon River"],
+            "answer": "Nile River"
+        },
+        {
+            "id":"id20",
+            "question": "Who was the first man to walk on the moon?",
+            "options": ["Neil Armstrong", "Buzz Aldrin"],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "id":"id21",
+            "question": "What is the main ingredient in traditional Italian pizza?",
+            "options": ["Tomato", "Cheese"],
+            "answer": "Tomato"
+        }
+    ]
+}
